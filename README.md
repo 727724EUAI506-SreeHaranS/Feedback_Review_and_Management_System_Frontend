@@ -43,13 +43,6 @@ This frontend application communicates with the backend (Spring Boot) through **
 
 ---
 
-## 🧱 Project Structure
-
-
-
-
----
-
 ## 🚀 Installation and Setup
 
 ### **1️⃣ Prerequisites**
